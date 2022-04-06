@@ -1,0 +1,1 @@
+# Gyakorlati anyagok a Debreceni Egyetem Informatika Karának Mesterséges Intelligencia tantárgyhoz
